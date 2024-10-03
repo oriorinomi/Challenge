@@ -1,4 +1,4 @@
-REMOTE# Challenge
+LOCAL# Challenge
 pizza
 sushi 
 macdo 
